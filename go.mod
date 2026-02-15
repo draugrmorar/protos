@@ -1,4 +1,4 @@
-module protos
+module github.com/draugrmorar/protos
 
 go 1.24.11
 
